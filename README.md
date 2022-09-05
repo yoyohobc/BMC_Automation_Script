@@ -1,0 +1,2 @@
+# BMC_Automation_Script
+已移除與業務內容相關xlsx檔
