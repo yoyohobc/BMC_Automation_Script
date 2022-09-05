@@ -1,0 +1,1114 @@
+{
+    "fan0_tach": {
+        "entity id": "0x1D",
+        "entity": "0",
+        "Upper Critical": 18150.0,
+        "Upper Non-Critical": 18150.0,
+        "Lower Non-Critical": 2000.0,
+        "Lower Critical": 1000.0
+    },
+    "fan1_tach": {
+        "entity id": "0x1D",
+        "entity": "1",
+        "Upper Critical": 18150.0,
+        "Upper Non-Critical": 18150.0,
+        "Lower Non-Critical": 2000.0,
+        "Lower Critical": 1000.0
+    },
+    "fan2_tach": {
+        "entity id": "0x1D",
+        "entity": "2",
+        "Upper Critical": 18150.0,
+        "Upper Non-Critical": 18150.0,
+        "Lower Non-Critical": 2000.0,
+        "Lower Critical": 1000.0
+    },
+    "fan3_tach": {
+        "entity id": "0x1D",
+        "entity": "3",
+        "Upper Critical": 18150.0,
+        "Upper Non-Critical": 18150.0,
+        "Lower Non-Critical": 2000.0,
+        "Lower Critical": 1000.0
+    },
+    "fan4_tach": {
+        "entity id": "0x1D",
+        "entity": "4",
+        "Upper Critical": 27500.0,
+        "Upper Non-Critical": 27500.0,
+        "Lower Non-Critical": 2000.0,
+        "Lower Critical": 1000.0
+    },
+    "fan5_tach": {
+        "entity id": "0x1D",
+        "entity": "5",
+        "Upper Critical": 27500.0,
+        "Upper Non-Critical": 27500.0,
+        "Lower Non-Critical": 2000.0,
+        "Lower Critical": 1000.0
+    },
+    "fan0_pwm": {
+        "entity id": "0x1D",
+        "entity": "0",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "fan1_pwm": {
+        "entity id": "0x1D",
+        "entity": "1",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "fan2_pwm": {
+        "entity id": "0x1D",
+        "entity": "2",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "fan3_pwm": {
+        "entity id": "0x1D",
+        "entity": "3",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "fan4_pwm": {
+        "entity id": "0x1D",
+        "entity": "4",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "fan5_pwm": {
+        "entity id": "0x1D",
+        "entity": "5",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_VCORE0": {
+        "entity id": "0x03",
+        "entity": "1",
+        "Upper Critical": 2.26,
+        "Upper Non-Critical": 2.16,
+        "Lower Non-Critical": 0.51,
+        "Lower Critical": 0.48
+    },
+    "CPU0_VSOC": {
+        "entity id": "0x03",
+        "entity": "2",
+        "Upper Critical": 1.36,
+        "Upper Non-Critical": 1.3,
+        "Lower Non-Critical": 0.69,
+        "Lower Critical": 0.65
+    },
+    "CPU0_VCORE1": {
+        "entity id": "0x03",
+        "entity": "3",
+        "Upper Critical": 2.26,
+        "Upper Non-Critical": 2.16,
+        "Lower Non-Critical": 0.51,
+        "Lower Critical": 0.48
+    },
+    "CPU0_P1V1": {
+        "entity id": "0x03",
+        "entity": "4",
+        "Upper Critical": 1.24,
+        "Upper Non-Critical": 1.19,
+        "Lower Non-Critical": 0.87,
+        "Lower Critical": 0.83
+    },
+    "CPU0_P3V3": {
+        "entity id": "0x03",
+        "entity": "5",
+        "Upper Critical": 3.1,
+        "Upper Non-Critical": 2.97,
+        "Lower Non-Critical": 2.53,
+        "Lower Critical": 2.39
+    },
+    "CPU0_VDDIO": {
+        "entity id": "0x03",
+        "entity": "6",
+        "Upper Critical": 1.36,
+        "Upper Non-Critical": 1.3,
+        "Lower Non-Critical": 0.83,
+        "Lower Critical": 0.78
+    },
+    "CPU0_P1V8": {
+        "entity id": "0x03",
+        "entity": "7",
+        "Upper Critical": 2.03,
+        "Upper Non-Critical": 1.94,
+        "Lower Non-Critical": 1.66,
+        "Lower Critical": 1.57
+    },
+    "CPU0_13V5": {
+        "entity id": "0x03",
+        "entity": "8",
+        "Upper Critical": 16.95,
+        "Upper Non-Critical": 16.2,
+        "Lower Non-Critical": 9.2,
+        "Lower Critical": 8.7
+    },
+    "CPU1_VCORE0": {
+        "entity id": "0x03",
+        "entity": "9",
+        "Upper Critical": 2.26,
+        "Upper Non-Critical": 2.16,
+        "Lower Non-Critical": 0.51,
+        "Lower Critical": 0.48
+    },
+    "CPU1_VSOC": {
+        "entity id": "0x03",
+        "entity": "10",
+        "Upper Critical": 1.36,
+        "Upper Non-Critical": 1.3,
+        "Lower Non-Critical": 0.69,
+        "Lower Critical": 0.65
+    },
+    "CPU1_VCORE1": {
+        "entity id": "0x03",
+        "entity": "11",
+        "Upper Critical": 2.26,
+        "Upper Non-Critical": 2.16,
+        "Lower Non-Critical": 0.51,
+        "Lower Critical": 0.48
+    },
+    "CPU1_P1V1": {
+        "entity id": "0x03",
+        "entity": "12",
+        "Upper Critical": 1.24,
+        "Upper Non-Critical": 1.19,
+        "Lower Non-Critical": 0.87,
+        "Lower Critical": 0.83
+    },
+    "CPU1_P3V3": {
+        "entity id": "0x03",
+        "entity": "13",
+        "Upper Critical": 3.1,
+        "Upper Non-Critical": 2.97,
+        "Lower Non-Critical": 2.53,
+        "Lower Critical": 2.39
+    },
+    "CPU1_VDDIO": {
+        "entity id": "0x03",
+        "entity": "14",
+        "Upper Critical": 1.36,
+        "Upper Non-Critical": 1.3,
+        "Lower Non-Critical": 0.83,
+        "Lower Critical": 0.78
+    },
+    "CPU1_P1V8": {
+        "entity id": "0x03",
+        "entity": "15",
+        "Upper Critical": 2.03,
+        "Upper Non-Critical": 1.94,
+        "Lower Non-Critical": 1.66,
+        "Lower Critical": 1.57
+    },
+    "CPU1_13V5": {
+        "entity id": "0x03",
+        "entity": "16",
+        "Upper Critical": 16.95,
+        "Upper Non-Critical": 16.2,
+        "Lower Non-Critical": 9.2,
+        "Lower Critical": 8.7
+    },
+    "BMC_PV6": {
+        "entity id": "0x10",
+        "entity": "2",
+        "Upper Critical": 0.68,
+        "Upper Non-Critical": 0.65,
+        "Lower Non-Critical": 0.55,
+        "Lower Critical": 0.52
+    },
+    "BMC_P1V0": {
+        "entity id": "0x10",
+        "entity": "3",
+        "Upper Critical": 1.13,
+        "Upper Non-Critical": 1.08,
+        "Lower Non-Critical": 0.92,
+        "Lower Critical": 0.87
+    },
+    "BMC_P1V2": {
+        "entity id": "0x10",
+        "entity": "4",
+        "Upper Critical": 1.36,
+        "Upper Non-Critical": 1.3,
+        "Lower Non-Critical": 1.1,
+        "Lower Critical": 1.04
+    },
+    "BMC_P1V8": {
+        "entity id": "0x10",
+        "entity": "5",
+        "Upper Critical": 2.03,
+        "Upper Non-Critical": 1.94,
+        "Lower Non-Critical": 1.66,
+        "Lower Critical": 1.57
+    },
+    "BMC_P2V5": {
+        "entity id": "0x10",
+        "entity": "6",
+        "Upper Critical": 2.83,
+        "Upper Non-Critical": 2.7,
+        "Lower Non-Critical": 2.3,
+        "Lower Critical": 2.18
+    },
+    "BMC_P3V3_STBY": {
+        "entity id": "0x10",
+        "entity": "7",
+        "Upper Critical": 3.73,
+        "Upper Non-Critical": 3.56,
+        "Lower Non-Critical": 3.04,
+        "Lower Critical": 2.87
+    },
+    "P48V_VIN": {
+        "entity id": "0x0E",
+        "entity": "2",
+        "Upper Critical": 62.0,
+        "Upper Non-Critical": 61.0,
+        "Lower Non-Critical": 36.8,
+        "Lower Critical": 34.8
+    },
+    "BRICK1_P12V": {
+        "entity id": "0x0E",
+        "entity": "3",
+        "Upper Critical": 13.56,
+        "Upper Non-Critical": 12.96,
+        "Lower Non-Critical": 11.04,
+        "Lower Critical": 10.44
+    },
+    "BRICK2_P12V": {
+        "entity id": "0x0E",
+        "entity": "4",
+        "Upper Critical": 13.56,
+        "Upper Non-Critical": 12.96,
+        "Lower Non-Critical": 11.04,
+        "Lower Critical": 10.44
+    },
+    "MAIN_P3V3": {
+        "entity id": "0x07",
+        "entity": "2",
+        "Upper Critical": 3.73,
+        "Upper Non-Critical": 3.56,
+        "Lower Non-Critical": 3.04,
+        "Lower Critical": 2.87
+    },
+    "P0_NBM_DELTA_TMV": {
+        "entity id": "0x03",
+        "entity": "17",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "P1_NBM_DELTA_TMV": {
+        "entity id": "0x03",
+        "entity": "18",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "P0_NBM_VICOR_TMV": {
+        "entity id": "0x03",
+        "entity": "17",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "P1_NBM_VICOR_TMV": {
+        "entity id": "0x03",
+        "entity": "18",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "RTC_3V": {
+        "entity id": "0x07",
+        "entity": "3",
+        "Upper Critical": 3.56,
+        "Upper Non-Critical": 3.47,
+        "Lower Non-Critical": 2.3,
+        "Lower Critical": 2.21
+    },
+    "CPU0_13V5_U106": {
+        "entity id": null,
+        "entity": null,
+        "Upper Critical": 84.0,
+        "Upper Non-Critical": 65.1,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_13V5_U108": {
+        "entity id": null,
+        "entity": null,
+        "Upper Critical": 84.0,
+        "Upper Non-Critical": 65.1,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "HOTSWAP_PIN": {
+        "entity id": "0x0E",
+        "entity": "5",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_VCORE0_POUT": {
+        "entity id": "0x03",
+        "entity": "19",
+        "Upper Critical": 414.0,
+        "Upper Non-Critical": 362.3,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_VSOC_POUT": {
+        "entity id": "0x03",
+        "entity": "20",
+        "Upper Critical": 187.2,
+        "Upper Non-Critical": 163.8,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_VCORE1_POUT": {
+        "entity id": "0x03",
+        "entity": "21",
+        "Upper Critical": 414.0,
+        "Upper Non-Critical": 362.3,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_P1V1_POUT": {
+        "entity id": "0x03",
+        "entity": "22",
+        "Upper Critical": 105.6,
+        "Upper Non-Critical": 92.4,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_P3V3_POUT": {
+        "entity id": "0x03",
+        "entity": "23",
+        "Upper Critical": 11.9,
+        "Upper Non-Critical": 10.4,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_VDDIO_POUT": {
+        "entity id": "0x03",
+        "entity": "24",
+        "Upper Critical": 201.6,
+        "Upper Non-Critical": 176.4,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_P1V8_POUT": {
+        "entity id": "0x03",
+        "entity": "25",
+        "Upper Critical": 25.9,
+        "Upper Non-Critical": 22.7,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_VCORE0_POUT": {
+        "entity id": "0x03",
+        "entity": "26",
+        "Upper Critical": 414.0,
+        "Upper Non-Critical": 362.3,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_VSOC_POUT": {
+        "entity id": "0x03",
+        "entity": "27",
+        "Upper Critical": 187.2,
+        "Upper Non-Critical": 163.8,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_VCORE1_POUT": {
+        "entity id": "0x03",
+        "entity": "28",
+        "Upper Critical": 414.0,
+        "Upper Non-Critical": 362.3,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_P1V1_POUT": {
+        "entity id": "0x03",
+        "entity": "29",
+        "Upper Critical": 105.6,
+        "Upper Non-Critical": 92.4,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_P3V3_POUT": {
+        "entity id": "0x03",
+        "entity": "30",
+        "Upper Critical": 11.9,
+        "Upper Non-Critical": 10.4,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_VDDIO_POUT": {
+        "entity id": "0x03",
+        "entity": "31",
+        "Upper Critical": 201.6,
+        "Upper Non-Critical": 176.4,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_P1V8_POUT": {
+        "entity id": "0x03",
+        "entity": "32",
+        "Upper Critical": 25.9,
+        "Upper Non-Critical": 22.7,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "MB_OUTLET_T_1": {
+        "entity id": "0x07",
+        "entity": "4",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "MB_OUTLET_T_2": {
+        "entity id": "0x07",
+        "entity": "5",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "MB_OUTLET_T_3": {
+        "entity id": "0x07",
+        "entity": "6",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_VCORE0_T": {
+        "entity id": "0x03",
+        "entity": "33",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_VSOC_T": {
+        "entity id": "0x03",
+        "entity": "34",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_VCORE0_T": {
+        "entity id": "0x03",
+        "entity": "35",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_VSOC_T": {
+        "entity id": "0x03",
+        "entity": "36",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_VCORE1_T": {
+        "entity id": "0x03",
+        "entity": "37",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_P1V1_T": {
+        "entity id": "0x03",
+        "entity": "38",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_VCORE1_T": {
+        "entity id": "0x03",
+        "entity": "39",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_P1V1_T": {
+        "entity id": "0x03",
+        "entity": "40",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_VIO_T": {
+        "entity id": "0x03",
+        "entity": "41",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_P3V3_T": {
+        "entity id": "0x03",
+        "entity": "42",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_VIO_T": {
+        "entity id": "0x03",
+        "entity": "43",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_P3V3_T": {
+        "entity id": "0x03",
+        "entity": "44",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_P1V8_T": {
+        "entity id": "0x03",
+        "entity": "45",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_P1V8_T": {
+        "entity id": "0x03",
+        "entity": "46",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 90.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "HOTSWAP_T": {
+        "entity id": "0x0E",
+        "entity": "6",
+        "Upper Critical": 109.0,
+        "Upper Non-Critical": 93.7,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_T": {
+        "entity id": "0x03",
+        "entity": "47",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 92.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_T": {
+        "entity id": "0x03",
+        "entity": "48",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 92.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM0_T": {
+        "entity id": "0x08",
+        "entity": "1",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM1_T": {
+        "entity id": "0x08",
+        "entity": "2",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM2_T": {
+        "entity id": "0x08",
+        "entity": "3",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM3_T": {
+        "entity id": "0x08",
+        "entity": "4",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM4_T": {
+        "entity id": "0x08",
+        "entity": "5",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM5_T": {
+        "entity id": "0x08",
+        "entity": "6",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM6_T": {
+        "entity id": "0x08",
+        "entity": "7",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM7_T": {
+        "entity id": "0x08",
+        "entity": "8",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM8_T": {
+        "entity id": "0x08",
+        "entity": "9",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM9_T": {
+        "entity id": "0x08",
+        "entity": "10",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM10_T": {
+        "entity id": "0x08",
+        "entity": "11",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM11_T": {
+        "entity id": "0x08",
+        "entity": "12",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM12_T": {
+        "entity id": "0x08",
+        "entity": "13",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM13_T": {
+        "entity id": "0x08",
+        "entity": "14",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM14_T": {
+        "entity id": "0x08",
+        "entity": "15",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM15_T": {
+        "entity id": "0x08",
+        "entity": "16",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM16_T": {
+        "entity id": "0x08",
+        "entity": "17",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM17_T": {
+        "entity id": "0x08",
+        "entity": "18",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM18_T": {
+        "entity id": "0x08",
+        "entity": "19",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM19_T": {
+        "entity id": "0x08",
+        "entity": "20",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM20_T": {
+        "entity id": "0x08",
+        "entity": "21",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM21_T": {
+        "entity id": "0x08",
+        "entity": "22",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM22_T": {
+        "entity id": "0x08",
+        "entity": "23",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "DIMM23_T": {
+        "entity id": "0x08",
+        "entity": "24",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_DIMM_0_T": {
+        "entity id": "0x08",
+        "entity": "25",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_DIMM_1_T": {
+        "entity id": "0x08",
+        "entity": "26",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_DIMM_0_T": {
+        "entity id": "0x08",
+        "entity": "27",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_DIMM_1_T": {
+        "entity id": "0x08",
+        "entity": "28",
+        "Upper Critical": 95.0,
+        "Upper Non-Critical": 85.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "M2_T": {
+        "entity id": "0x07",
+        "entity": "7",
+        "Upper Critical": 70.0,
+        "Upper Non-Critical": 65.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "MB_INLET_T": {
+        "entity id": "0x10",
+        "entity": "8",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_NBM_T": {
+        "entity id": "0x03",
+        "entity": "49",
+        "Upper Critical": 85.0,
+        "Upper Non-Critical": 80.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_NBM_T": {
+        "entity id": "0x03",
+        "entity": "50",
+        "Upper Critical": 85.0,
+        "Upper Non-Critical": 80.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "BRICK1_P12V_T": {
+        "entity id": "0x0E",
+        "entity": "7",
+        "Upper Critical": 113.8,
+        "Upper Non-Critical": 93.8,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "BRICK2_P12V_T": {
+        "entity id": "0x0E",
+        "entity": "8",
+        "Upper Critical": 113.8,
+        "Upper Non-Critical": 93.8,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "Temp_NAND (cssD)": {
+        "entity id": null,
+        "entity": null,
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "Fleeting 0": {
+        "entity id": null,
+        "entity": null,
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "Fleeting 1": {
+        "entity id": null,
+        "entity": null,
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "thermal_zone0": {
+        "entity id": null,
+        "entity": null,
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "thermal_zone1": {
+        "entity id": null,
+        "entity": null,
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "MB_Tray dT": {
+        "entity id": "0x07",
+        "entity": null,
+        "Upper Critical": 20.0,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "Watchdog2": {
+        "entity id": "0x23",
+        "entity": "0",
+        "Upper Critical": null,
+        "Upper Non-Critical": null,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_VCORE0_IOUT": {
+        "entity id": "0x03",
+        "entity": "51",
+        "Upper Critical": 276.0,
+        "Upper Non-Critical": 241.5,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_VSOC_IOUT": {
+        "entity id": "0x03",
+        "entity": "52",
+        "Upper Critical": 156.0,
+        "Upper Non-Critical": 136.5,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_VCORE1_IOUT": {
+        "entity id": "0x03",
+        "entity": "53",
+        "Upper Critical": 276.0,
+        "Upper Non-Critical": 241.5,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_P1V1_IOUT": {
+        "entity id": "0x03",
+        "entity": "54",
+        "Upper Critical": 96.0,
+        "Upper Non-Critical": 84.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_P3V3_IOUT": {
+        "entity id": "0x03",
+        "entity": "55",
+        "Upper Critical": 3.6,
+        "Upper Non-Critical": 3.15,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_VDDIO_IOUT": {
+        "entity id": "0x03",
+        "entity": "56",
+        "Upper Critical": 168.0,
+        "Upper Non-Critical": 147.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU0_P1V8_IOUT": {
+        "entity id": "0x03",
+        "entity": "57",
+        "Upper Critical": 14.4,
+        "Upper Non-Critical": 12.6,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_VCORE0_IOUT": {
+        "entity id": "0x03",
+        "entity": "58",
+        "Upper Critical": 276.0,
+        "Upper Non-Critical": 241.5,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_VSOC_IOUT": {
+        "entity id": "0x03",
+        "entity": "59",
+        "Upper Critical": 156.0,
+        "Upper Non-Critical": 136.5,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_VCORE1_IOUT": {
+        "entity id": "0x03",
+        "entity": "60",
+        "Upper Critical": 276.0,
+        "Upper Non-Critical": 241.5,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_P1V1_IOUT": {
+        "entity id": "0x03",
+        "entity": "61",
+        "Upper Critical": 96.0,
+        "Upper Non-Critical": 84.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_P3V3_IOUT": {
+        "entity id": "0x03",
+        "entity": "62",
+        "Upper Critical": 3.6,
+        "Upper Non-Critical": 3.15,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_VDDIO_IOUT": {
+        "entity id": "0x03",
+        "entity": "63",
+        "Upper Critical": 168.0,
+        "Upper Non-Critical": 147.0,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "CPU1_P1V8_IOUT": {
+        "entity id": "0x03",
+        "entity": "64",
+        "Upper Critical": 14.4,
+        "Upper Non-Critical": 12.6,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "MAIN_P3V3_IOUT": {
+        "entity id": "0x07",
+        "entity": "8",
+        "Upper Critical": 34.9,
+        "Upper Non-Critical": 31.9,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "BRICK1_P12V_IOUT": {
+        "entity id": "0x0E",
+        "entity": "9",
+        "Upper Critical": 115.0,
+        "Upper Non-Critical": 75.6,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "BRICK2_P12V_IOUT": {
+        "entity id": "0x0E",
+        "entity": "10",
+        "Upper Critical": 115.0,
+        "Upper Non-Critical": 75.6,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    },
+    "P48V_IOUT": {
+        "entity id": "0x0E",
+        "entity": "11",
+        "Upper Critical": 73.0,
+        "Upper Non-Critical": 52.5,
+        "Lower Non-Critical": null,
+        "Lower Critical": null
+    }
+}

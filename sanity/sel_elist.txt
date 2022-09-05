@@ -1,0 +1,32 @@
+
+gsys fan set /phys/BIGGULP:device:fan0 pwm 2
+
+sleep 10s
+
+gsys fan set /phys/BIGGULP:device:fan0 auto
+
+ipmitool sel elist
+   1 |  Pre-Init  |0000000073| Fan fan0 tach | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 1988 RPM
+   2 |  Pre-Init  |0000000073| Fan fan0 tach | Lower Critical going low  | Asserted | Reading 0 < Threshold 994 RPM
+   3 |  Pre-Init  |0000000073| Fan fan3 tach | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 1988 RPM
+   4 |  Pre-Init  |0000000073| Fan fan3 tach | Lower Critical going low  | Asserted | Reading 0 < Threshold 994 RPM
+   5 |  Pre-Init  |0000000073| Fan fan1 tach | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 1988 RPM
+   6 |  Pre-Init  |0000000073| Fan fan1 tach | Lower Critical going low  | Asserted | Reading 0 < Threshold 994 RPM
+   7 |  Pre-Init  |0000000073| Fan fan4 tach | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 2052 RPM
+   8 |  Pre-Init  |0000000073| Fan fan4 tach | Lower Critical going low  | Asserted | Reading 0 < Threshold 1026 RPM
+   9 |  Pre-Init  |0000000073| Fan fan2 tach | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 1988 RPM
+   a |  Pre-Init  |0000000073| Fan fan2 tach | Lower Critical going low  | Asserted | Reading 0 < Threshold 994 RPM
+   b |  Pre-Init  |0000000073| Fan fan5 tach | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 2052 RPM
+   c |  Pre-Init  |0000000073| Fan fan5 tach | Lower Critical going low  | Asserted | Reading 0 < Threshold 1026 RPM
+   d |  Pre-Init  |0000000074| Fan fan0 tach | Lower Non-critical going low  | Deasserted | Reading 6532 < Threshold 1988 RPM
+   e |  Pre-Init  |0000000074| Fan fan0 tach | Lower Critical going low  | Deasserted | Reading 6532 < Threshold 994 RPM
+   f |  Pre-Init  |0000000074| Fan fan3 tach | Lower Non-critical going low  | Deasserted | Reading 6603 < Threshold 1988 RPM
+  10 |  Pre-Init  |0000000074| Fan fan3 tach | Lower Critical going low  | Deasserted | Reading 6603 < Threshold 994 RPM
+  11 |  Pre-Init  |0000000074| Fan fan1 tach | Lower Non-critical going low  | Deasserted | Reading 6674 < Threshold 1988 RPM
+  12 |  Pre-Init  |0000000074| Fan fan1 tach | Lower Critical going low  | Deasserted | Reading 6674 < Threshold 994 RPM
+  13 |  Pre-Init  |0000000074| Fan fan4 tach | Lower Non-critical going low  | Deasserted | Reading 8778 < Threshold 2052 RPM
+  14 |  Pre-Init  |0000000074| Fan fan4 tach | Lower Critical going low  | Deasserted | Reading 8778 < Threshold 1026 RPM
+  15 |  Pre-Init  |0000000074| Fan fan2 tach | Lower Non-critical going low  | Deasserted | Reading 6674 < Threshold 1988 RPM
+  16 |  Pre-Init  |0000000074| Fan fan2 tach | Lower Critical going low  | Deasserted | Reading 6674 < Threshold 994 RPM
+  17 |  Pre-Init  |0000000074| Fan fan5 tach | Lower Non-critical going low  | Deasserted | Reading 8892 < Threshold 2052 RPM
+  18 |  Pre-Init  |0000000074| Fan fan5 tach | Lower Critical going low  | Deasserted | Reading 8892 < Threshold 1026 RPM

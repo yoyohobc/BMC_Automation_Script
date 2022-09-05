@@ -1,0 +1,2586 @@
+sensor name is BRICK2 P12V IOUT 
+Locating sensor record...
+Sensor ID              : BRICK2 P12V IOUT (0x0)
+ Entity ID             : 14.10
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 9.922 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 75.768
+ Upper Critical        : 115.005
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 P1V1 IOUT 
+Locating sensor record...
+Sensor ID              : CPU0 P1V1 IOUT (0x1)
+ Entity ID             : 3.54
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 1.224 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 84.048
+ Upper Critical        : 95.880
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 P1V8 IOUT 
+Locating sensor record...
+Sensor ID              : CPU0 P1V8 IOUT (0x2)
+ Entity ID             : 3.57
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 3.266 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 12.567
+ Upper Critical        : 14.413
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 P3V3 IOUT 
+Locating sensor record...
+Sensor ID              : CPU0 P3V3 IOUT (0x3)
+ Entity ID             : 3.55
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 0 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 3.140
+ Upper Critical        : 3.611
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VCORE0 IOUT 
+Locating sensor record...
+Sensor ID              : CPU0 VCORE0 IOUT (0x4)
+ Entity ID             : 3.51
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 4.400 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 242.000
+ Upper Critical        : 276.100
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VCORE1 IOUT 
+Locating sensor record...
+Sensor ID              : CPU0 VCORE1 IOUT (0x5)
+ Entity ID             : 3.53
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 3.300 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 242.000
+ Upper Critical        : 276.100
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VDDIO IOUT 
+Locating sensor record...
+Sensor ID              : CPU0 VDDIO IOUT (0x6)
+ Entity ID             : 3.56
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 42.780 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 146.970
+ Upper Critical        : 167.670
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VSOC IOUT 
+Locating sensor record...
+Sensor ID              : CPU0 VSOC IOUT (0x7)
+ Entity ID             : 3.52
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 53.950 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 136.500
+ Upper Critical        : 156.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 P1V1 IOUT 
+Locating sensor record...
+Sensor ID              : CPU1 P1V1 IOUT (0x8)
+ Entity ID             : 3.61
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 8.160 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 84.048
+ Upper Critical        : 95.880
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 P1V8 IOUT 
+Locating sensor record...
+Sensor ID              : CPU1 P1V8 IOUT (0x9)
+ Entity ID             : 3.64
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 3.266 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 12.567
+ Upper Critical        : 14.413
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 P3V3 IOUT 
+Locating sensor record...
+Sensor ID              : CPU1 P3V3 IOUT (0xa)
+ Entity ID             : 3.62
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 0 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 3.140
+ Upper Critical        : 3.611
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VCORE0 IOUT 
+Locating sensor record...
+Sensor ID              : CPU1 VCORE0 IOUT (0xb)
+ Entity ID             : 3.58
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 5.500 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 242.000
+ Upper Critical        : 276.100
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VCORE1 IOUT 
+Locating sensor record...
+Sensor ID              : CPU1 VCORE1 IOUT (0xc)
+ Entity ID             : 3.60
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 2.200 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 242.000
+ Upper Critical        : 276.100
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VDDIO IOUT 
+Locating sensor record...
+Sensor ID              : CPU1 VDDIO IOUT (0xd)
+ Entity ID             : 3.63
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 9.660 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 146.970
+ Upper Critical        : 167.670
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VSOC IOUT 
+Locating sensor record...
+Sensor ID              : CPU1 VSOC IOUT (0xe)
+ Entity ID             : 3.59
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 14.950 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 136.500
+ Upper Critical        : 156.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is MAIN P3V3 IOUT 
+Locating sensor record...
+Sensor ID              : MAIN P3V3 IOUT (0xf)
+ Entity ID             : 7.8
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 0 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 31.900
+ Upper Critical        : 34.945
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is P48V IOUT 
+Locating sensor record...
+Sensor ID              : P48V IOUT (0x10)
+ Entity ID             : 14.11
+ Sensor Type (Threshold)  : Current
+ Sensor Reading        : 3.718 (+/- 0) Amps
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 52.624
+ Upper Critical        : 72.930
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is fan0 pwm 
+Locating sensor record...
+Sensor ID              : fan0 pwm (0x11)
+ Entity ID             : 29.0
+ Sensor Type (Threshold)  : Fan
+ Sensor Reading        : 19.992 (+/- 0) unspecified
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is fan1 pwm 
+Locating sensor record...
+Sensor ID              : fan1 pwm (0x12)
+ Entity ID             : 29.1
+ Sensor Type (Threshold)  : Fan
+ Sensor Reading        : 19.992 (+/- 0) unspecified
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is fan2 pwm 
+Locating sensor record...
+Sensor ID              : fan2 pwm (0x13)
+ Entity ID             : 29.2
+ Sensor Type (Threshold)  : Fan
+ Sensor Reading        : 19.992 (+/- 0) unspecified
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is fan3 pwm 
+Locating sensor record...
+Sensor ID              : fan3 pwm (0x14)
+ Entity ID             : 29.3
+ Sensor Type (Threshold)  : Fan
+ Sensor Reading        : 19.992 (+/- 0) unspecified
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is fan4 pwm 
+Locating sensor record...
+Sensor ID              : fan4 pwm (0x15)
+ Entity ID             : 29.4
+ Sensor Type (Threshold)  : Fan
+ Sensor Reading        : 39.984 (+/- 0) unspecified
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is fan5 pwm 
+Locating sensor record...
+Sensor ID              : fan5 pwm (0x16)
+ Entity ID             : 29.5
+ Sensor Type (Threshold)  : Fan
+ Sensor Reading        : 39.984 (+/- 0) unspecified
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is fan0 tach 
+Locating sensor record...
+Sensor ID              : fan0 tach (0x17)
+ Entity ID             : 29.0
+ Sensor Type (Threshold)  : Fan
+ Sensor Reading        : 3621 (+/- 0) RPM
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 994.000
+ Lower Non-Critical    : 1988.000
+ Upper Non-Critical    : 18105.000
+ Upper Critical        : 18105.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Deassertion Events    : lnc+ ucr- 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is fan1 tach 
+Locating sensor record...
+Sensor ID              : fan1 tach (0x18)
+ Entity ID             : 29.1
+ Sensor Type (Threshold)  : Fan
+ Sensor Reading        : 3621 (+/- 0) RPM
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 994.000
+ Lower Non-Critical    : 1988.000
+ Upper Non-Critical    : 18105.000
+ Upper Critical        : 18105.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Deassertion Events    : lnc+ ucr- 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is fan2 tach 
+Locating sensor record...
+Sensor ID              : fan2 tach (0x19)
+ Entity ID             : 29.2
+ Sensor Type (Threshold)  : Fan
+ Sensor Reading        : 3621 (+/- 0) RPM
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 994.000
+ Lower Non-Critical    : 1988.000
+ Upper Non-Critical    : 18105.000
+ Upper Critical        : 18105.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Deassertion Events    : lnc+ ucr- 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is fan3 tach 
+Locating sensor record...
+Sensor ID              : fan3 tach (0x1a)
+ Entity ID             : 29.3
+ Sensor Type (Threshold)  : Fan
+ Sensor Reading        : 3621 (+/- 0) RPM
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 994.000
+ Lower Non-Critical    : 1988.000
+ Upper Non-Critical    : 18105.000
+ Upper Critical        : 18105.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Deassertion Events    : lnc+ ucr- 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is fan4 tach 
+Locating sensor record...
+Sensor ID              : fan4 tach (0x1b)
+ Entity ID             : 29.4
+ Sensor Type (Threshold)  : Fan
+ Sensor Reading        : 9120 (+/- 0) RPM
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 1026.000
+ Lower Non-Critical    : 2052.000
+ Upper Non-Critical    : 27474.000
+ Upper Critical        : 27474.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Deassertion Events    : lnc+ ucr- 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is fan5 tach 
+Locating sensor record...
+Sensor ID              : fan5 tach (0x1c)
+ Entity ID             : 29.5
+ Sensor Type (Threshold)  : Fan
+ Sensor Reading        : 9120 (+/- 0) RPM
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 1026.000
+ Lower Non-Critical    : 2052.000
+ Upper Non-Critical    : 27474.000
+ Upper Critical        : 27474.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Deassertion Events    : lnc+ ucr- 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 P1V1 POUT 
+Locating sensor record...
+Sensor ID              : CPU0 P1V1 POUT (0x1d)
+ Entity ID             : 3.22
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 0.898 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 92.494
+ Upper Critical        : 105.515
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 P1V8 POUT 
+Locating sensor record...
+Sensor ID              : CPU0 P1V8 POUT (0x1e)
+ Entity ID             : 3.25
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 4.953 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 22.733
+ Upper Critical        : 25.908
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 P3V3 POUT 
+Locating sensor record...
+Sensor ID              : CPU0 P3V3 POUT (0x1f)
+ Entity ID             : 3.23
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 0 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 10.400
+ Upper Critical        : 11.856
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VCORE0 POUT 
+Locating sensor record...
+Sensor ID              : CPU0 VCORE0 POUT (0x20)
+ Entity ID             : 3.19
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 3.300 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 363.000
+ Upper Critical        : 414.150
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VCORE1 POUT 
+Locating sensor record...
+Sensor ID              : CPU0 VCORE1 POUT (0x21)
+ Entity ID             : 3.21
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 1.650 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 363.000
+ Upper Critical        : 414.150
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VDDIO POUT 
+Locating sensor record...
+Sensor ID              : CPU0 VDDIO POUT (0x22)
+ Entity ID             : 3.24
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 48.380 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 176.300
+ Upper Critical        : 201.720
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VSOC POUT 
+Locating sensor record...
+Sensor ID              : CPU0 VSOC POUT (0x23)
+ Entity ID             : 3.20
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 28.080 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 163.800
+ Upper Critical        : 187.200
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 P1V1 POUT 
+Locating sensor record...
+Sensor ID              : CPU1 P1V1 POUT (0x24)
+ Entity ID             : 3.29
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 9.878 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 92.494
+ Upper Critical        : 105.515
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 P1V8 POUT 
+Locating sensor record...
+Sensor ID              : CPU1 P1V8 POUT (0x25)
+ Entity ID             : 3.32
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 3.937 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 22.733
+ Upper Critical        : 25.908
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 P3V3 POUT 
+Locating sensor record...
+Sensor ID              : CPU1 P3V3 POUT (0x26)
+ Entity ID             : 3.30
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 0 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 10.400
+ Upper Critical        : 11.856
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VCORE0 POUT 
+Locating sensor record...
+Sensor ID              : CPU1 VCORE0 POUT (0x27)
+ Entity ID             : 3.26
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 6.600 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 363.000
+ Upper Critical        : 414.150
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VCORE1 POUT 
+Locating sensor record...
+Sensor ID              : CPU1 VCORE1 POUT (0x28)
+ Entity ID             : 3.28
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 1.650 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 363.000
+ Upper Critical        : 414.150
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VDDIO POUT 
+Locating sensor record...
+Sensor ID              : CPU1 VDDIO POUT (0x29)
+ Entity ID             : 3.31
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 46.740 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 176.300
+ Upper Critical        : 201.720
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VSOC POUT 
+Locating sensor record...
+Sensor ID              : CPU1 VSOC POUT (0x2a)
+ Entity ID             : 3.27
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 28.860 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 163.800
+ Upper Critical        : 187.200
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is HOTSWAP PIN 
+Locating sensor record...
+Sensor ID              : HOTSWAP PIN (0x2b)
+ Entity ID             : 14.5
+ Sensor Type (Threshold)  : Other
+ Sensor Reading        : 483.800 (+/- 0) Watts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is BRICK2 P12V T 
+Locating sensor record...
+Sensor ID              : BRICK2 P12V T (0x2c)
+ Entity ID             : 14.8
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 36 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 94.000
+ Upper Critical        : 114.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 DIMM 0 T 
+Locating sensor record...
+Sensor ID              : CPU0 DIMM 0 T (0x2d)
+ Entity ID             : 8.25
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 37 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 DIMM 1 T 
+Locating sensor record...
+Sensor ID              : CPU0 DIMM 1 T (0x2e)
+ Entity ID             : 8.26
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 40 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 NBM T 
+Locating sensor record...
+Sensor ID              : CPU0 NBM T (0x2f)
+ Entity ID             : 3.49
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 44 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 80.000
+ Upper Critical        : 85.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 P1V1 T 
+Locating sensor record...
+Sensor ID              : CPU0 P1V1 T (0x30)
+ Entity ID             : 3.38
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 39 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 P1V8 T 
+Locating sensor record...
+Sensor ID              : CPU0 P1V8 T (0x31)
+ Entity ID             : 3.45
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 41 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 P3V3 T 
+Locating sensor record...
+Sensor ID              : CPU0 P3V3 T (0x32)
+ Entity ID             : 3.42
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 42 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 T 
+Locating sensor record...
+Sensor ID              : CPU0 T (0x33)
+ Entity ID             : 3.47
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 44 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 92.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VCORE0 T 
+Locating sensor record...
+Sensor ID              : CPU0 VCORE0 T (0x34)
+ Entity ID             : 3.33
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 43 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VCORE1 T 
+Locating sensor record...
+Sensor ID              : CPU0 VCORE1 T (0x35)
+ Entity ID             : 3.37
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 40 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VIO T 
+Locating sensor record...
+Sensor ID              : CPU0 VIO T (0x36)
+ Entity ID             : 3.41
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 45 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VSOC T 
+Locating sensor record...
+Sensor ID              : CPU0 VSOC T (0x37)
+ Entity ID             : 3.34
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 44 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 DIMM 0 T 
+Locating sensor record...
+Sensor ID              : CPU1 DIMM 0 T (0x38)
+ Entity ID             : 8.27
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 38 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 DIMM 1 T 
+Locating sensor record...
+Sensor ID              : CPU1 DIMM 1 T (0x39)
+ Entity ID             : 8.28
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 35 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 NBM T 
+Locating sensor record...
+Sensor ID              : CPU1 NBM T (0x3a)
+ Entity ID             : 3.50
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 44 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 80.000
+ Upper Critical        : 85.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 P1V1 T 
+Locating sensor record...
+Sensor ID              : CPU1 P1V1 T (0x3b)
+ Entity ID             : 3.40
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 42 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 P1V8 T 
+Locating sensor record...
+Sensor ID              : CPU1 P1V8 T (0x3c)
+ Entity ID             : 3.46
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 41 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 P3V3 T 
+Locating sensor record...
+Sensor ID              : CPU1 P3V3 T (0x3d)
+ Entity ID             : 3.44
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 41 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 T 
+Locating sensor record...
+Sensor ID              : CPU1 T (0x3e)
+ Entity ID             : 3.48
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 40 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 92.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VCORE0 T 
+Locating sensor record...
+Sensor ID              : CPU1 VCORE0 T (0x3f)
+ Entity ID             : 3.35
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 43 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VCORE1 T 
+Locating sensor record...
+Sensor ID              : CPU1 VCORE1 T (0x40)
+ Entity ID             : 3.39
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 40 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VIO T 
+Locating sensor record...
+Sensor ID              : CPU1 VIO T (0x41)
+ Entity ID             : 3.43
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 44 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VSOC T 
+Locating sensor record...
+Sensor ID              : CPU1 VSOC T (0x42)
+ Entity ID             : 3.36
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 44 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 90.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM0 T 
+Locating sensor record...
+Sensor ID              : DIMM0 T (0x43)
+ Entity ID             : 8.1
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 36 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM1 T 
+Locating sensor record...
+Sensor ID              : DIMM1 T (0x44)
+ Entity ID             : 8.2
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 37 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM2 T 
+Locating sensor record...
+Sensor ID              : DIMM2 T (0x45)
+ Entity ID             : 8.3
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 36 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM3 T 
+Locating sensor record...
+Sensor ID              : DIMM3 T (0x46)
+ Entity ID             : 8.4
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 35 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM4 T 
+Locating sensor record...
+Sensor ID              : DIMM4 T (0x47)
+ Entity ID             : 8.5
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 34 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM5 T 
+Locating sensor record...
+Sensor ID              : DIMM5 T (0x48)
+ Entity ID             : 8.6
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 33 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM6 T 
+Locating sensor record...
+Sensor ID              : DIMM6 T (0x49)
+ Entity ID             : 8.7
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 36 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM7 T 
+Locating sensor record...
+Sensor ID              : DIMM7 T (0x4a)
+ Entity ID             : 8.8
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 36 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM8 T 
+Locating sensor record...
+Sensor ID              : DIMM8 T (0x4b)
+ Entity ID             : 8.9
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 36 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM9 T 
+Locating sensor record...
+Sensor ID              : DIMM9 T (0x4c)
+ Entity ID             : 8.10
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 38 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM10 T 
+Locating sensor record...
+Sensor ID              : DIMM10 T (0x4d)
+ Entity ID             : 8.11
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 40 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM11 T 
+Locating sensor record...
+Sensor ID              : DIMM11 T (0x4e)
+ Entity ID             : 8.12
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 38 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM12 T 
+Locating sensor record...
+Sensor ID              : DIMM12 T (0x4f)
+ Entity ID             : 8.13
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 37 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM13 T 
+Locating sensor record...
+Sensor ID              : DIMM13 T (0x50)
+ Entity ID             : 8.14
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 37 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM14 T 
+Locating sensor record...
+Sensor ID              : DIMM14 T (0x51)
+ Entity ID             : 8.15
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 38 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM15 T 
+Locating sensor record...
+Sensor ID              : DIMM15 T (0x52)
+ Entity ID             : 8.16
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 37 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM16 T 
+Locating sensor record...
+Sensor ID              : DIMM16 T (0x53)
+ Entity ID             : 8.17
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 36 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM17 T 
+Locating sensor record...
+Sensor ID              : DIMM17 T (0x54)
+ Entity ID             : 8.18
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 34 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM18 T 
+Locating sensor record...
+Sensor ID              : DIMM18 T (0x55)
+ Entity ID             : 8.19
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 33 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM19 T 
+Locating sensor record...
+Sensor ID              : DIMM19 T (0x56)
+ Entity ID             : 8.20
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 34 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM20 T 
+Locating sensor record...
+Sensor ID              : DIMM20 T (0x57)
+ Entity ID             : 8.21
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 34 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM21 T 
+Locating sensor record...
+Sensor ID              : DIMM21 T (0x58)
+ Entity ID             : 8.22
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 34 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM22 T 
+Locating sensor record...
+Sensor ID              : DIMM22 T (0x59)
+ Entity ID             : 8.23
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 34 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is DIMM23 T 
+Locating sensor record...
+Sensor ID              : DIMM23 T (0x5a)
+ Entity ID             : 8.24
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 34 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 85.000
+ Upper Critical        : 95.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is HOTSWAP T 
+Locating sensor record...
+Sensor ID              : HOTSWAP T (0x5b)
+ Entity ID             : 14.6
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 31 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 94.000
+ Upper Critical        : 109.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is MB INLET T 
+Locating sensor record...
+Sensor ID              : MB INLET T (0x5c)
+ Entity ID             : 16.8
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 24 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is MB OUTLET T 1 
+Locating sensor record...
+Sensor ID              : MB OUTLET T 1 (0x5d)
+ Entity ID             : 7.4
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 31 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is MB OUTLET T 2 
+Locating sensor record...
+Sensor ID              : MB OUTLET T 2 (0x5e)
+ Entity ID             : 7.5
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 33 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is MB OUTLET T 3 
+Locating sensor record...
+Sensor ID              : MB OUTLET T 3 (0x5f)
+ Entity ID             : 7.6
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 30 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is MB Tray dT 
+Locating sensor record...
+Sensor ID              : MB Tray dT (0x60)
+ Entity ID             : 7.9
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 7 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : 20.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lcr- ucr+ 
+ Deassertions Enabled  : lcr+ ucr- 
+
+sensor name is fleeting0 
+Locating sensor record...
+Sensor ID              : fleeting0 (0x61)
+ Entity ID             : 30.0
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 35 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is fleeting1 
+Locating sensor record...
+Sensor ID              : fleeting1 (0x62)
+ Entity ID             : 30.1
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 35 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is thermal zone0 
+Locating sensor record...
+Sensor ID              : thermal zone0 (0x63)
+ Entity ID             : 30.2
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 76 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 108.000
+ Upper Critical        : 110.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is thermal zone1 
+Locating sensor record...
+Sensor ID              : thermal zone1 (0x64)
+ Entity ID             : 30.3
+ Sensor Type (Threshold)  : Temperature
+ Sensor Reading        : 75 (+/- 0) degrees C
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : 108.000
+ Upper Critical        : 110.000
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is BMC P1V0 
+Locating sensor record...
+Sensor ID              : BMC P1V0 (0x65)
+ Entity ID             : 16.3
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.006 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 0.874
+ Lower Non-Critical    : 0.920
+ Upper Non-Critical    : 1.076
+ Upper Critical        : 1.131
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is BMC P1V2 
+Locating sensor record...
+Sensor ID              : BMC P1V2 (0x66)
+ Entity ID             : 16.4
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.201 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 1.037
+ Lower Non-Critical    : 1.100
+ Upper Non-Critical    : 1.303
+ Upper Critical        : 1.357
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is BMC P1V8 
+Locating sensor record...
+Sensor ID              : BMC P1V8 (0x67)
+ Entity ID             : 16.5
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.813 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 1.568
+ Lower Non-Critical    : 1.656
+ Upper Non-Critical    : 1.940
+ Upper Critical        : 2.029
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is BMC P2V5 
+Locating sensor record...
+Sensor ID              : BMC P2V5 (0x68)
+ Entity ID             : 16.6
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 2.493 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 2.178
+ Lower Non-Critical    : 2.302
+ Upper Non-Critical    : 2.699
+ Upper Critical        : 2.836
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is BMC P3V3 STBY 
+Locating sensor record...
+Sensor ID              : BMC P3V3 STBY (0x69)
+ Entity ID             : 16.7
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 3.410 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 2.862
+ Lower Non-Critical    : 3.038
+ Upper Non-Critical    : 3.567
+ Upper Critical        : 3.724
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is BMC PV6 
+Locating sensor record...
+Sensor ID              : BMC PV6 (0x6a)
+ Entity ID             : 16.2
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 0.600 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 0.521
+ Lower Non-Critical    : 0.550
+ Upper Non-Critical    : 0.650
+ Upper Critical        : 0.681
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is BRICK2 P12V 
+Locating sensor record...
+Sensor ID              : BRICK2 P12V (0x6b)
+ Entity ID             : 14.4
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 12.222 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 10.458
+ Lower Non-Critical    : 11.025
+ Upper Non-Critical    : 12.978
+ Upper Critical        : 13.545
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 13V5 
+Locating sensor record...
+Sensor ID              : CPU0 13V5 (0x6c)
+ Entity ID             : 3.8
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 13.419 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 8.733
+ Lower Non-Critical    : 9.230
+ Upper Non-Critical    : 16.188
+ Upper Critical        : 16.969
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 P1V1 
+Locating sensor record...
+Sensor ID              : CPU0 P1V1 (0x6d)
+ Entity ID             : 3.4
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.104 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 0.828
+ Lower Non-Critical    : 0.876
+ Upper Non-Critical    : 1.188
+ Upper Critical        : 1.236
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 P1V8 
+Locating sensor record...
+Sensor ID              : CPU0 P1V8 (0x6e)
+ Entity ID             : 3.7
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.800 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 1.572
+ Lower Non-Critical    : 1.656
+ Upper Non-Critical    : 1.944
+ Upper Critical        : 2.028
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 P3V3 
+Locating sensor record...
+Sensor ID              : CPU0 P3V3 (0x6f)
+ Entity ID             : 3.5
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 2.745 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 2.391
+ Lower Non-Critical    : 2.525
+ Upper Non-Critical    : 2.965
+ Upper Critical        : 3.099
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VCORE0 
+Locating sensor record...
+Sensor ID              : CPU0 VCORE0 (0x70)
+ Entity ID             : 3.1
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.020 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 0.480
+ Lower Non-Critical    : 0.516
+ Upper Non-Critical    : 2.160
+ Upper Critical        : 2.256
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VCORE1 
+Locating sensor record...
+Sensor ID              : CPU0 VCORE1 (0x71)
+ Entity ID             : 3.3
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.020 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 0.480
+ Lower Non-Critical    : 0.516
+ Upper Non-Critical    : 2.160
+ Upper Critical        : 2.256
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VDDIO 
+Locating sensor record...
+Sensor ID              : CPU0 VDDIO (0x72)
+ Entity ID             : 3.6
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.104 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 0.780
+ Lower Non-Critical    : 0.828
+ Upper Non-Critical    : 1.296
+ Upper Critical        : 1.356
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU0 VSOC 
+Locating sensor record...
+Sensor ID              : CPU0 VSOC (0x73)
+ Entity ID             : 3.2
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.092 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 0.648
+ Lower Non-Critical    : 0.696
+ Upper Non-Critical    : 1.296
+ Upper Critical        : 1.356
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 13V5 
+Locating sensor record...
+Sensor ID              : CPU1 13V5 (0x74)
+ Entity ID             : 3.16
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 13.419 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 8.733
+ Lower Non-Critical    : 9.230
+ Upper Non-Critical    : 16.188
+ Upper Critical        : 16.969
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 P1V1 
+Locating sensor record...
+Sensor ID              : CPU1 P1V1 (0x75)
+ Entity ID             : 3.12
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.104 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 0.828
+ Lower Non-Critical    : 0.876
+ Upper Non-Critical    : 1.188
+ Upper Critical        : 1.236
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 P1V8 
+Locating sensor record...
+Sensor ID              : CPU1 P1V8 (0x76)
+ Entity ID             : 3.15
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.800 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 1.572
+ Lower Non-Critical    : 1.656
+ Upper Non-Critical    : 1.944
+ Upper Critical        : 2.028
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 P3V3 
+Locating sensor record...
+Sensor ID              : CPU1 P3V3 (0x77)
+ Entity ID             : 3.13
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 2.745 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 2.391
+ Lower Non-Critical    : 2.525
+ Upper Non-Critical    : 2.965
+ Upper Critical        : 3.099
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VCORE0 
+Locating sensor record...
+Sensor ID              : CPU1 VCORE0 (0x78)
+ Entity ID             : 3.9
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.104 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 0.480
+ Lower Non-Critical    : 0.516
+ Upper Non-Critical    : 2.160
+ Upper Critical        : 2.256
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VCORE1 
+Locating sensor record...
+Sensor ID              : CPU1 VCORE1 (0x79)
+ Entity ID             : 3.11
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.104 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 0.480
+ Lower Non-Critical    : 0.516
+ Upper Non-Critical    : 2.160
+ Upper Critical        : 2.256
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VDDIO 
+Locating sensor record...
+Sensor ID              : CPU1 VDDIO (0x7a)
+ Entity ID             : 3.14
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.104 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 0.780
+ Lower Non-Critical    : 0.828
+ Upper Non-Critical    : 1.296
+ Upper Critical        : 1.356
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is CPU1 VSOC 
+Locating sensor record...
+Sensor ID              : CPU1 VSOC (0x7b)
+ Entity ID             : 3.10
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 1.092 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 0.648
+ Lower Non-Critical    : 0.696
+ Upper Non-Critical    : 1.296
+ Upper Critical        : 1.356
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is MAIN P3V3 
+Locating sensor record...
+Sensor ID              : MAIN P3V3 (0x7c)
+ Entity ID             : 7.2
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 3.344 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 2.873
+ Lower Non-Critical    : 3.062
+ Upper Non-Critical    : 3.580
+ Upper Critical        : 3.721
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is P0 NBM DELTA TMV 
+Locating sensor record...
+Sensor ID              : P0 NBM DELTA TMV (0x7d)
+ Entity ID             : 3.17
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 3.173 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is P1 NBM DELTA TMV 
+Locating sensor record...
+Sensor ID              : P1 NBM DELTA TMV (0x7e)
+ Entity ID             : 3.18
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 3.173 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : na
+ Lower Non-Critical    : na
+ Upper Non-Critical    : na
+ Upper Critical        : na
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Event Status          : Event Messages Disabled
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : 
+
+sensor name is P48V VIN 
+Locating sensor record...
+Sensor ID              : P48V VIN (0x7f)
+ Entity ID             : 14.2
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 53.704 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 34.888
+ Lower Non-Critical    : 36.848
+ Upper Non-Critical    : 61.152
+ Upper Critical        : 61.936
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
+sensor name is RTC 3V 
+Locating sensor record...
+Sensor ID              : RTC 3V (0x80)
+ Entity ID             : 7.3
+ Sensor Type (Threshold)  : Voltage
+ Sensor Reading        : 3.126 (+/- 0) Volts
+ Status                : ok
+ Lower Non-Recoverable : na
+ Lower Critical        : 2.209
+ Lower Non-Critical    : 2.303
+ Upper Non-Critical    : 3.478
+ Upper Critical        : 3.549
+ Upper Non-Recoverable : na
+ Positive Hysteresis   : Unspecified
+ Negative Hysteresis   : Unspecified
+ Assertion Events      : 
+ Event Enable          : Event Messages Disabled
+ Assertions Enabled    : lnc- lcr- unc+ ucr+ 
+ Deassertions Enabled  : lnc+ lcr+ unc- ucr- 
+
